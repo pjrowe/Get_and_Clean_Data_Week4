@@ -1,5 +1,3 @@
-format md\_document: variant: gfm
-
 Project Description
 -------------------
 
